@@ -1,6 +1,6 @@
 {
     "data" :[
-        {"brand": "Volkswagen"},
-        {"brand": "Audi"}
+        "Volkswagen",
+        "Audi"
     ]
 }
